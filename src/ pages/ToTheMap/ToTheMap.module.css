@@ -1,0 +1,27 @@
+
+
+.flex{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.list button:first-child{
+    background: white;
+    border: 1px solid #FB0F40;
+    color: black;
+    width: 90px;
+    height: 31px;
+}
+.list button:nth-child(2){
+    background: #FB0F40;
+    border: none;
+    color: white;
+    width: 90px;
+    height: 31px;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

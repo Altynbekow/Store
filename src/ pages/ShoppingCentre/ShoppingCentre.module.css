@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.title{
+    position: relative;
+}
+.ad{
+    /* position: absolute; */
+    margin-top: 80px;
+}
+.cn{
+    position: absolute;
+    left: 0;
+    margin-top: 164px;
+}
+.wk{
+    position: absolute;
+    left: 0;
+    margin-top: 310px;
+}
+.ct{
+    text-align: center;
+    margin-bottom: 100px;
+}
